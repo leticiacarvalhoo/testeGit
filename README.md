@@ -1,0 +1,1 @@
+Essa calculadora foi um teste para explorar algumas funções do git!
